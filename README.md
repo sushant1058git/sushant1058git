@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" height="175px"/></a>
 
 <h1 align="center">Hi , I'm Sushant Sinha</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3><br>
 
 ## 🙋‍♂️ About Me
 
@@ -13,11 +13,11 @@
 
 - 📫 Reach me **sushant1058jan@gmail.com**
 
-
+<br>
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
+<p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
      <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/django.png"/> </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -35,15 +35,13 @@
 
 <p align="center">
     <a href="https://github.com/sushant1058git/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushant Sinha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant1058git&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="Sushant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant1058git"/>
     </a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushant1058git&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant1058git&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br>
+    <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushant1058git&show_icons=true&count_private=true" /></a>
+    <br><br>
+  <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant1058git&langs_count=8&count_private=true" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
