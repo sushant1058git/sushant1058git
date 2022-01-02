@@ -28,17 +28,20 @@
     <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" width="50" height="50" /> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1550px-NumPy_logo.svg.png"/ width="45" height="45"> </a> 
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/sushant1058git/github-readme-streak-stats">
         <img alt="Sushant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant1058git"/>
     </a>
+<p> -->
 
-<br>
+<p align="left">
     <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushant1058git&show_icons=true&count_private=true" /></a>
     <br><br>
   <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant1058git&langs_count=8&count_private=true" /></a>
