@@ -20,7 +20,7 @@
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
      <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/django.png"/> </a> 
-     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" width="80" height="50"/> </a>   
+     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" width="100" height="50"/> </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -44,9 +44,10 @@
 
 <p align="left">
     <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushant1058git&show_icons=true&count_private=true" /></a>
-    <br><br>
+</p>
+    <br>
   <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant1058git&langs_count=8&count_private=true" /></a>
-  </p>
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
