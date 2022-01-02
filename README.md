@@ -37,11 +37,12 @@
     <a href="https://github.com/sushant1058git/github-readme-streak-stats">
         <img alt="Sushant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant1058git"/>
     </a>
-</p>
+
 <br>
     <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushant1058git&show_icons=true&count_private=true" /></a>
     <br><br>
   <a href="https://github.com/sushant1058git/github-readme-stats"><img alt="Sushant's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant1058git&langs_count=8&count_private=true" /></a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
