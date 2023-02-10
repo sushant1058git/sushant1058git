@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for **SNV Software Services, Bangalore**
+- 🔭 I’m currently working for **Prometheus Group India, Bangalore**
 
 - 🌱 I’m currently learning **Machine Learning**
 
