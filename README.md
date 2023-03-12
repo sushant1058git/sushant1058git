@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" height="175px"/></a>
 
 <h1 align="center">Hi , I'm Sushant Sinha</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3><br>
+<h3 align="center">I'm a passionate Python Full Stack Web Developer from India.</h3><br>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for **Prometheus Group India, Bangalore**
+- 🔭 I’m currently working with **Prometheus Group India, Bangalore**
 
 - 🌱 I’m currently learning **Machine Learning**
 
